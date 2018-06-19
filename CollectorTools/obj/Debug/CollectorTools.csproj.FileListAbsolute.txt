@@ -1,0 +1,10 @@
+G:\必要文件\小程序Demo\RawCollector\CollectorTools\bin\Debug\CollectorTools.dll
+G:\必要文件\小程序Demo\RawCollector\CollectorTools\bin\Debug\CollectorTools.pdb
+G:\必要文件\小程序Demo\RawCollector\CollectorTools\obj\Debug\CollectorTools.dll
+G:\必要文件\小程序Demo\RawCollector\CollectorTools\obj\Debug\CollectorTools.pdb
+E:\WorkSpace\必要文件\小程序Demo\RawCollector\CollectorTools\bin\Debug\CollectorTools.dll
+E:\WorkSpace\必要文件\小程序Demo\RawCollector\CollectorTools\bin\Debug\CollectorTools.pdb
+E:\WorkSpace\必要文件\小程序Demo\RawCollector\CollectorTools\obj\Debug\CollectorTools.csprojResolveAssemblyReference.cache
+E:\WorkSpace\必要文件\小程序Demo\RawCollector\CollectorTools\obj\Debug\CollectorTools.csproj.CoreCompileInputs.cache
+E:\WorkSpace\必要文件\小程序Demo\RawCollector\CollectorTools\obj\Debug\CollectorTools.dll
+E:\WorkSpace\必要文件\小程序Demo\RawCollector\CollectorTools\obj\Debug\CollectorTools.pdb
